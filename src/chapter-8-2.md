@@ -1,4 +1,4 @@
-Chapter X: Techniques for Using Cycles to Achieve Professional and Community Goals
+Techniques for Using Cycles to Achieve Professional and Community Goals
 ==================================================================================
 
 In this chapter, we will explore various techniques that can be employed to leverage the power of cycles in order to achieve both professional and community goals. By implementing these techniques, individuals and teams can enhance their efficiency, effectiveness, and impact on both personal and collective levels.
