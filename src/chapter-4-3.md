@@ -1,9 +1,6 @@
 Strategies for Creating Cycles that Align with Personal Objectives
 ========================================================================================================
 
-Introduction
-------------
-
 Building effective cycles requires aligning them with personal objectives and goals. In this chapter, we'll explore strategies for creating cycles that are tailored to individual objectives.
 
 The Importance of Aligning Cycles with Personal Objectives

@@ -1,9 +1,6 @@
 The Importance of Using Cycles to Improve Efficiency and Effectiveness
 ===============================================================================================================
 
-Introduction
-------------
-
 Using cycles is a powerful technique for improving efficiency and effectiveness. In this chapter, we'll explore the importance of using cycles and the benefits they provide for achieving success through the repetition principle.
 
 The Importance of Using Cycles

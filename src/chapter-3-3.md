@@ -1,9 +1,6 @@
 Strategies for Using These Techniques to Develop a Strong Cycle Mindset
 ================================================================================================================
 
-Introduction
-------------
-
 Using cycles is a powerful technique for improving efficiency and effectiveness. In this chapter, we'll explore the benefits of using cycles and strategies for developing a strong cycle mindset.
 
 The Benefits of Using Cycles
