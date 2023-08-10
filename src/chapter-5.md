@@ -1,9 +1,6 @@
 Chapter 4: Maximizing Efficiency Through Repetition
 ===================================================
 
-Introduction
-------------
-
 Repetition is a key component of the repetition principle and can greatly improve efficiency. In this chapter, we'll explore the importance of repetition in maximizing efficiency, techniques for identifying tasks that can benefit from repetition, and strategies for developing a routine that incorporates repetition.
 
 The Importance of Repetition in Maximizing Efficiency
@@ -60,18 +57,6 @@ Set goals for skill development or habit formation and track progress over time.
 ### 4. Create a Schedule
 
 Create a schedule that incorporates repetition, allowing for consistent practice and refinement.
-
-Example of Maximizing Efficiency Through Repetition
----------------------------------------------------
-
-Here's an example of how repetition can maximize efficiency:
-
-### Task: Typing Speed Improvement
-
-* Analyze Task: Typing speed requires specific skills that can be developed through repetition.
-* Evaluate Frequency: Typing is a task that is performed frequently in many jobs, making it a prime candidate for repetition.
-* Consider Complexity: Typing involves multiple complex actions that can be streamlined through repetition.
-* Strategy: Type for 10 minutes each day using online typing tutorials and exercises to develop speed and accuracy.
 
 Conclusion
 ----------

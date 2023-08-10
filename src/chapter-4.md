@@ -1,9 +1,6 @@
 Chapter 3: Building Effective Cycles
 ====================================
 
-Introduction
-------------
-
 Building effective cycles is crucial for achieving success through the repetition principle. In this chapter, we'll explore the role of effective cycles in achieving goals, techniques for setting clear and measurable goals, and strategies for creating cycles that align with personal objectives.
 
 The Role of Effective Cycles in Achieving Goals
@@ -64,20 +61,6 @@ Create an action plan for each cycle, outlining specific tasks and deadlines tha
 ### 5. Stay Focused
 
 Stay focused on personal objectives by regularly reviewing progress and adjusting strategies as necessary.
-
-Example of Building Effective Cycles
-------------------------------------
-
-Here's an example of building effective cycles:
-
-### Goal: Improve Public Speaking Skills
-
-* SMART Goal: Deliver one 5-minute speech at Toastmasters every week for 12 weeks, receiving feedback from a mentor after each speech.
-* Cycle 1: Write and deliver the first speech, focusing on clear messaging and eye contact.
-* Cycle 2: Write and deliver the second speech, focusing on vocal variety and gestures.
-* Cycle 3: Write and deliver the third speech, focusing on engaging the audience and handling Q\&A.
-* Cycle 4: Write and deliver the fourth speech, incorporating feedback from previous speeches.
-* Cycle 5: Write and deliver the fifth speech, continuing to incorporate feedback and refine skills.
 
 Conclusion
 ----------
