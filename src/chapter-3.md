@@ -1,5 +1,3 @@
-Chapter 2: The Benefits of Using Cycles
-=======================================
 
 The Importance of Using Cycles to Improve Efficiency and Effectiveness
 ----------------------------------------------------------------------

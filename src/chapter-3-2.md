@@ -1,5 +1,3 @@
-Techniques for Understanding the Principles of Effective Cycles
-========================================================================================================
 
 In this chapter, we'll explore techniques for understanding the principles of effective cycles. By understanding these principles, you can build cycles that promote efficiency and effectiveness towards achieving your goals.
 

@@ -1,5 +1,3 @@
-Chapter 4: Maximizing Efficiency Through Repetition
-===================================================
 
 Repetition is a key component of the repetition principle and can greatly improve efficiency. In this chapter, we'll explore the importance of repetition in maximizing efficiency, techniques for identifying tasks that can benefit from repetition, and strategies for developing a routine that incorporates repetition.
 

@@ -1,5 +1,3 @@
-Techniques for Identifying Tasks that Can Benefit from Repetition
-============================================================================
 
 In this chapter, we will explore techniques for identifying tasks that can benefit from repetition in the context of improving efficiency and effectiveness through the repetition principle. Recognizing which tasks are suitable for repetitive cycles is crucial for maximizing the benefits and achieving desired outcomes. The following techniques can assist in identifying such tasks:
 

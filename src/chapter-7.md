@@ -1,5 +1,3 @@
-Chapter 6: Navigating Challenges in Cycles
-==========================================
 
 In this chapter, we'll explore the challenges that can arise when seeking to use cycles effectively, techniques for managing obstacles and overcoming resistance, and strategies for building resilience and adapting to changing circumstances.
 

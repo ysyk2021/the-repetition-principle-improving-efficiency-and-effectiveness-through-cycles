@@ -1,5 +1,3 @@
-Chapter 8: Advanced Cycle Techniques and Strategies
-===================================================
 
 In this chapter, we'll explore advanced techniques and strategies for improving cycle effectiveness, tips for overcoming common challenges and obstacles in the process, and strategies for achieving sustained success through a practice of effective cycle management.
 

@@ -1,5 +1,3 @@
-Recap of the Key Takeaways from the Book
-====================================================
 
 In this book, we explored the repetition principle and how it can be used to improve efficiency and effectiveness through cycles. Here are the key takeaways from the book:
 

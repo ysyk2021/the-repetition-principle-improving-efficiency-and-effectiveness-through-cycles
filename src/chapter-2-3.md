@@ -1,5 +1,3 @@
-Tips for Identifying Personal Obstacles to Effective Repetition and Overcoming Them
-======================================================================================================================================
 
 The repetition principle is a powerful technique for improving efficiency and effectiveness through cycles. However, personal obstacles can hinder effective repetition. In this chapter, we'll explore tips for identifying these obstacles and overcoming them.
 

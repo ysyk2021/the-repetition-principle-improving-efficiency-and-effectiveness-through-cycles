@@ -1,5 +1,3 @@
-Chapter 3: Building Effective Cycles
-====================================
 
 Building effective cycles is crucial for achieving success through the repetition principle. In this chapter, we'll explore the role of effective cycles in achieving goals, techniques for setting clear and measurable goals, and strategies for creating cycles that align with personal objectives.
 
