@@ -16,3 +16,7 @@ Whether you are an employee looking to improve your skills or an employer seekin
 So, let's dive into "The Repetition Principle: Improving Efficiency and Effectiveness through Cycles" and discover how to harness the power of repetition for success in the workplace.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
